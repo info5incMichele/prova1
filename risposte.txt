@@ -3,3 +3,7 @@ Che cos'è github e quali sono le sue caratteristiche?
 
 Come si crea un repository privato?
     per creare un repository privato, alla creazione del repository, basterà selezionare "private" nella sezione "Access" nella scermata di creazione di un nuovo repository.
+    
+Cosa si intende per fare un branch?
+    si intende creare una copia identica al file originale presente nel repository dove sarà possibile apportare modifiche al codice o aggiungerne dell'altro. Una volta modificato basterà fare una pull request al file originale e bisognerà aspettare che l'amministratore del progetto "accetti" il nuovo file modificato e github in automatico andrà ad apportare le modifiche al file originale con quello modificato e tutti gli altri utenti potranno avere accesso a quel nuovo file
+

@@ -1,0 +1,5 @@
+Che cos'è github e quali sono le sue caratteristiche?
+    github è una piattaforma in cui è possibile programmare in gruppi di più programmatori in remoto dove questi possono scrivere nuovo codice, modificare codice vecchio, visualizzare le modifiche apportate dagli altri utenti, discuterne, ed infine caricare il codice finito una volta approvato dall'amministratore del progetto.
+
+Come si crea un repository privato?
+    

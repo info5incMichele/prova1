@@ -1,0 +1,14 @@
+Che cos'è github e quali sono le sue caratteristiche?
+    github è una piattaforma in cui è possibile programmare in gruppi di più utenti in remoto dove questi possono scrivere nuovo codice, modificare codice vecchio, visualizzare le modifiche apportate dagli altri utenti, eventualmente discuterne, ed infine caricare il codice finito una volta approvato dall'amministratore del progetto.
+
+Come si crea un repository privato?
+    per creare un repository privato, alla creazione del repository, basterà selezionare "private" nella sezione "Access" nella scermata di creazione di un nuovo repository.
+    
+Cosa si intende per fare un branch?
+    si intende creare una copia identica al file originale presente nel repository dove sarà possibile apportare modifiche al codice o aggiungerne dell'altro. Una volta modificato basterà fare una pull request al file originale e bisognerà aspettare che l'amministratore del progetto "accetti" il nuovo file modificato e github in automatico andrà ad apportare le modifiche al file originale con quello modificato e tutti gli altri utenti potranno avere accesso a quel nuovo file
+
+Che cos'è e a cosa serve una issue?
+    una issue serve nel momento in cui si vengono a presentare dei conflitti come, per esempio, due o più utenti hanno apportato modifiche nella stessa sezione di codice. Sarà compito dell'amministratore del progetto aprire una issue presentando i file in questione. Con le issue è possibile discutere tra tutti gli utenti su quale dei file scegliere, utilizzando lo stesso stile di un forum, e di dire la loro opinione. in questa fase è ancora possibile portare modifiche al codice, magari prendendo parti di uno e metterlo nell'altro e togliendo ciò che è superfluo ed infine, una volta che si è deciso, l'amministratore del progetto caricherà il file finale per portare le modifiche a quello di partenza.
+
+Cosa si fa quando si da il comando push in github?
+    quando si usa il comando push si sta caricando in remoto il proprio file che contiene le eventuali modifiche o parti nuove del codice e l'amministratore del progetto ha la possibilità di visualizzare quel file e dopo sceglierà cosa farne: può scegliere di modificare il file originale con quello nuovo, può aprire una issue perchè magari va in conflitto con qualcosa e quindi avere una opinione da parte di tutti i membi del gruppo può essere utile per arrivare ad un compromesso, o magari può scegliere di scartarlo perchè non adatto a ciò che è gia presente nel file originale.
